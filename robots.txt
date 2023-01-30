@@ -1,3 +1,0 @@
-# https://mxplayermovies.netlify.app/
-User-agent: *
-Disallow:
