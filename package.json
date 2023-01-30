@@ -29,9 +29,6 @@
       "eject": "react-scripts eject",
       "postbuild": "react-snap"
   },
-  "engines": {
-    "node": "16.x"
-  },
   "eslintConfig": {
     "extends": [
       "react-app",
